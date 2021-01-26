@@ -1,0 +1,21 @@
+h1 {
+  color: red;
+  font-family: font-family: 'Bangers', cursive;
+  font-size: 100px;
+}
+
+p {
+  color: yellow;
+}
+
+a, a:hover {
+  color: black;
+  text-decoration: none;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+}
